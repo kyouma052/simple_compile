@@ -18,4 +18,5 @@ $ apt install git
 $ apt install make
 $ apt install sh
 $ git clone https://github.com/kyouma052/simple_compile
+$ cd simple_compile
 $ sh compile.sh
