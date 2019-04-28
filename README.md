@@ -9,6 +9,7 @@ $ sudo apt install git
 $ sudo apt install make
 $ sudo apt install sh
 $ git clone https://github.com/kyouma052/simple_compile
+$ cd simple_compile
 $ sh compile.sh
 
 ## HOW TO USED THIS TOOLS IN TERMUX ( BASED ON ANDROID )
