@@ -2,7 +2,7 @@
 This tool is used to make it easier for someone to compile an Android kernel on linux 
 
 ## I NEED TESTER FOR USED THIS TOOLS IN TERMUX.APK 
-FOR REPORT SEND GMAIL 
+FOR REPORT SEND GMAIL TO jaya.zerodarkcore@gmail.com
 
 ## HOW TO USED THIS TOOLS IN LINUX ( BASED ON PC )
 $ sudo apt install git
